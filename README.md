@@ -173,7 +173,7 @@ Plugin byl upraven pomocí AI. Původní plugin:
 
 ## 🤝 Přispěvování
 
-Přispěvky jsou vítány! Prosím, otevřte issue nebo pull request na [GitHub repository](https://github.com/nobodyguy/woo-payment-reminder).
+Otevřte issue nebo pull request.
 
 ## 📞 Podpora
 
