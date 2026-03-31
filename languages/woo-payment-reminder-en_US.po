@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Payment Reminder 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Jan Gnip <https://github.com/nobodyguy>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Payment Reminder"
+msgstr "Payment Reminder"
+
+msgid "Sends a reminder email for unpaid orders after a configurable number of days."
+msgstr "Sends a reminder email for unpaid orders after a configurable number of days."
+
+msgid "Reminder: Complete your payment for order #{order_id}"
+msgstr "Reminder: Complete your payment for order #{order_id}"
+
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+msgid "Enable this email"
+msgstr "Enable this email"
+
+msgid "Hours before first reminder"
+msgstr "Hours before first reminder"
+
+msgid "Second reminder"
+msgstr "Second reminder"
+
+msgid "Enable second reminder email"
+msgstr "Enable second reminder email"
+
+msgid "Hours before second reminder"
+msgstr "Hours before second reminder"
+
+msgid "Hello %s,"
+msgstr "Hello %s,"
+
+msgid "We noticed that your order <strong>#%s</strong> is still awaiting payment."
+msgstr "We noticed that your order <strong>#%s</strong> is still awaiting payment."
+
+msgid "We noticed that your order #%s is still awaiting payment."
+msgstr "We noticed that your order #%s is still awaiting payment."
+
+msgid "To complete your purchase, please proceed with the payment at your earliest convenience."
+msgstr "To complete your purchase, please proceed with the payment at your earliest convenience."
+
+msgid "Pay Now"
+msgstr "Pay Now"
+
+msgid "Payment link:"
+msgstr "Payment link:"
+
+msgid "If you have already completed the payment, please contact us."
+msgstr "If you have already completed the payment, please contact us."
+
+msgid "Thank you for shopping with us."
+msgstr "Thank you for shopping with us."
+
+msgid "Payment reminder email sent to customer."
+msgstr "Payment reminder email sent to customer."
+
+msgid "Second payment reminder email sent to customer."
+msgstr "Second payment reminder email sent to customer."
