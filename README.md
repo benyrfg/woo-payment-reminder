@@ -107,11 +107,6 @@ Zkontrolujte, že WordPress cron funguje:
 wp cron event list
 ```
 
-### Emaily chodí duplicitně
-
-Ujistěte se, že:
-- Není spuštěn duplicní cron job
-- Plugin není v síti více aktivovaný
 
 ## 📊 Struktura souborů
 
@@ -173,8 +168,7 @@ Plugin ukládá následující meta data k objednávkám:
 Tento plugin je licencován pod [GPLv3](LICENSE).
 
 ## 👨‍💻 Autor
-
-**Jan Gnip**
+Plugin byl upraven pomocí AI. Původní plugin:
 - GitHub: [@nobodyguy](https://github.com/nobodyguy)
 
 ## 🤝 Přispěvování
@@ -192,5 +186,3 @@ Pokud narazíte na problémy, prosím:
 
 **Poslední aktualizace**: 31. března 2026
 **Verze**: 1.0.0
-**WordPress Tested Up To**: 6.5+
-**WooCommerce Tested Up To**: 8.0+
